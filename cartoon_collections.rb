@@ -33,6 +33,10 @@ def find_the_cheese# code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
+
+
+
+
 =begin
 .each do |color|
   puts "There are #{color.length} letters in #{color}"
