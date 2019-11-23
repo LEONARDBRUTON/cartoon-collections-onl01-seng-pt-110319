@@ -19,10 +19,9 @@ end
 
 
 def long_planeteer_calls(calls)
-    if calls.each 
-      element.length > 4
+    if calls.each.length > 4
       return true
-    elsif element.length <= 4
+    elsif calls.length <= 4
       return false
         
     end
